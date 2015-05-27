@@ -1,0 +1,12 @@
+Crear / Modificar / Borrar usuarios.
+Aplicar para nuevo emprendimiento.
+Modificar / Borrar emprendimientos ya aprobados.
+Solicitar asociación a emprendimiento (inversor).
+Aceptar solicitud de asociación (emprendedor).
+Buscar / Filtrar emprendimientos.
+Promocionar proyecto (emprendedor)
+Preguntar información a emprendedor (inversor o posible futuro inversor).
+Baja de emprendimiento (?)
+Opciones para seguimiento de un emprendimiento (inversor).
+Crear / Modificar agenda (emprendedor).
+Broadcast de mail (emprendedor).

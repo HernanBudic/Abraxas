@@ -1,0 +1,4 @@
+CONFIGURACION DEL CALENDARIO:
+
+De lunes a viernes: una hora por dia
+Sabado y domingo: cuatro horas por dia
